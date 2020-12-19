@@ -1,16 +1,33 @@
-### Hi there 👋
+## Hey 👋, This is Sergey Gruzdov
 
-<!--
-**sgruzdov/sgruzdov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a frontend react developer
 
-Here are some ideas to get you started:
+## My Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+
++ HTML5 & CSS3
++ JavaScript (ES6+)
++ ReactJS
++ React Redux
++ React Router
++ SCSS
++ Gulp / Webpack
+
+### Other skills
+
++ Git / Github
++ Figma / Adobe Photoshop / Avocode
++ npm
++ Axios
++ Firebase
+
+## Some of my Github Stats:
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sgruzdov)](https://github.com/anuraghazra/github-readme-stats)
+
+------
+
+## 📫 How to reach me:
+
++ [Telegram](https://t.me/sergey_367)
