@@ -1,6 +1,6 @@
 ## Hey 👋, This is Sergey Gruzdov
 
-## I'm a frontend react developer
+## I'm a front-end react developer
 
 ## My Skills:
 
@@ -8,7 +8,7 @@
 
 + HTML5 & CSS3
 + JavaScript (ES6+)
-+ ReactJS
++ React JS
 + React Redux
 + React Router
 + SCSS
