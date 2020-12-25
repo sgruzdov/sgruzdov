@@ -12,7 +12,7 @@
 + React Redux
 + React Router
 + SCSS
-+ Gulp / Webpack
++ Gulp / Webpack / Parcel
 
 ### Other skills
 
