@@ -21,6 +21,7 @@
 + npm
 + Axios
 + Firebase
++ SOLID
 
 ## Some of my Github Stats:
 
