@@ -17,6 +17,7 @@
 
 ### Other skills
 
++ OOCSS / SMACSS
 + Git / Github
 + Figma / Adobe Photoshop / Avocode
 + npm
