@@ -13,7 +13,7 @@
 + React Router
 + SCSS
 + Gulp / Webpack / Parcel
-+ Material UI / Ant Design
++ Material UI / Ant Design / Materialize CSS
 
 ### Other skills
 
