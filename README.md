@@ -9,11 +9,20 @@
 + HTML5 & CSS3
 + JavaScript (ES6+)
 + React JS
++ React Native
 + React Redux
++ React Thunk
 + React Router
 + SCSS
 + Gulp / Webpack / Parcel
 + Material UI / Ant Design / Materialize CSS
+
+### Backend
+
++ NodeJS
++ Express
++ MongoDB
++ FireBase
 
 ### Other skills
 
@@ -22,7 +31,6 @@
 + Figma / Adobe Photoshop / Avocode
 + npm
 + Axios
-+ Firebase
 + SOLID
 
 ## Some of my Github Stats:
