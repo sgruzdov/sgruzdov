@@ -45,4 +45,4 @@
 ## 📫 How to reach me:
 
 + [Telegram](https://t.me/sergey_367)
-+ [Email](mailto:s.gruzdov-fl@yandex.by)
++ [Email](mailto:s.gruzdov367@gmail.com)
