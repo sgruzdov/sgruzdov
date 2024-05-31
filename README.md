@@ -1,48 +1,13 @@
-## Hey 👋, This is Sergey Gruzdov
+4+ years of web development experience. Participated in the creation, development and support of 7 product projects. In parallel with development, held the position of Team Lead for some time. Implemented the Scrum work process methodology and organized overfulfillment of the monthly plan without loss of team productivity.
 
-## I'm a front-end react developer
+Main technology stack: PHP 8 and MySQL (Doctrine) as Back-end; React and TypeScript as Front-end.
 
-## My Skills:
+I have worked with MVC frameworks such as (Symfony, Laminas). I have knowledge and experience in applying OOP principles, design patterns and architecture (SOLID, MVC, Dependency Injection). I write and design code according to PSR rules.
 
-### Frontend
-
-+ HTML5 & CSS3
-+ JavaScript (ES6+)
-+ React JS
-+ React Native
-+ React Redux
-+ React Thunk
-+ React Router
-+ SCSS
-+ Gulp / Webpack / Parcel
-+ Material UI / Ant Design / Materialize CSS
-
-### Backend
-
-+ NodeJS
-+ PHP
-+ Express
-+ MongoDB
-+ FireBase
-
-### Other skills
-
-+ OOCSS / SMACSS
-+ Git / Github
-+ Figma / Adobe Photoshop / Avocode
-+ npm
-+ Axios
-+ SOLID
-
-## Some of my Github Stats:
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sgruzdov&show_icons=true&theme=react)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgruzdov&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sgruzdov&v=2)](https://github.com/anuraghazra/github-readme-stats)
-
-------
-
-## 📫 How to reach me:
-
-+ [Telegram](https://t.me/sergey_367)
-+ [Email](mailto:s.gruzdov367@gmail.com)
+General responsibilities:
+- development of project architecture and databases;
+- optimization of business processes (CRM systems, ERP, etc.);
+- code review of tasks completed by the team;
+- managing a team of 8 developers, estimating tasks and distributing them;
+- determination of methods for solving assigned problems;
+- mentoring and assistance in the professional growth of colleagues.
